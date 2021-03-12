@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java & Kotlin
 - 💞️ I’m looking to collaborate on Development server
-- 📫 How to reach me, you can send mail for me at totsukamail3278@gmail.com
+- 📫 How to reach me, you can send me mail at totsukamail3278@gmail.com
 
 <img align = "left" alt = "Ahmad3296's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=Ahmad3296&show_icons=true&theme=radical" />
 
