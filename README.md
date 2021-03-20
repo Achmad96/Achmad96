@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ahmad3296
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java & Kotlin
 - 💞️ I’m looking to collaborate on Development server
 - 📫 How to reach me, you can send me mail at totsukamail3278@gmail.com
 
