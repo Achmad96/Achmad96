@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Ahmad3296
 - 👀 I’m interested in Coding
 - 💞️ I’m looking to collaborate on Application Development
-- 📫 How to reach me, you can send me mail at totsukamail3278@gmail.com
+- 📫 How to reach me: totsukamail3278@gmail.com
 
-<!--<img align = "left" alt = "Ahmad3296's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=Ahmad3296&show_icons=true&theme=radical" />-->
+<img align = "left" alt = "Ahmad3296's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=Ahmad3296&show_icons=true&theme=radical" />
 <!--<img align = "left" alt = "Ahmad3296's Github Stats" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad3296&layout=compact" />-->
 
 <!---
