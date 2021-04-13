@@ -6,7 +6,7 @@
 
 ## Languages
 
-![java-icon-png-2](https://user-images.githubusercontent.com/73148419/114565056-1fa98780-9c9b-11eb-889b-0c7664dad58c.jpg)
+<img src="https://user-images.githubusercontent.com/73148419/114565056-1fa98780-9c9b-11eb-889b-0c7664dad58c.jpg" width="10" height="10">
 
 
 <img align = "left" alt = "Ahmad3296's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=Ahmad3296&show_icons=true&theme=radical" />
