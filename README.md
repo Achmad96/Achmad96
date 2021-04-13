@@ -1,8 +1,8 @@
 ## Introduce
-- 👋 Hi, I’m @Ahmad3296
-- 👀 I’m interested in Coding
-- 💞️ I’m looking to collaborate on Application Development
-- 📫 How to reach me: totsukamail3278@gmail.com
+- 👋 Halo, perkenalkan saya Ahmad
+- 👀 Saya tertarik dengan pemograman
+- 💞️ Saya ingin bekerja sebagai Aplikasi Developer
+- 📫 Hubungi saya di totsukamail3278@gmail.com
 
 ## Languages
 
