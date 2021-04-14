@@ -2,9 +2,7 @@
 - 👋 Hi, I'm Ahmad
 - 👀 I'm interested to coding 💻
 - 📫 How to reach me? totsukamail3278@gmail.com
-## - Hobbies
-- 💻 Coding
-- 🎮 Playing game
+- My hobbies are💻 Coding and 🎮 Playing game
 
 ## Languages
 
