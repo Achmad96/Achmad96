@@ -4,10 +4,10 @@
 - 👀 I'm interested to coding 💻
 - My hobbies are 💻Coding and 🎮Playing game
 - 📫 How to reach me? totsukamail3278@gmail.com
-
+- 🌱 I’m currently learning:
 ## Languages
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50">
 
 
 <img align = "left" alt = "Ahmad3296's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=Ahmad3296&show_icons=true&theme=radical" />
