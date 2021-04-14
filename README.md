@@ -1,8 +1,9 @@
 ## Introduce
 - 👋 Hi, I'm Ahmad
+- 📌I'm 16 years old
 - 👀 I'm interested to coding 💻
+- My hobbies are 💻Coding and 🎮Playing game
 - 📫 How to reach me? totsukamail3278@gmail.com
-- My hobbies are💻 Coding and 🎮 Playing game
 
 ## Languages
 
