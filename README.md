@@ -1,6 +1,4 @@
-## Let me Introduce myself
-- 👋 Hi, I'm Ahmad
-- 📌I'm 16 years old
+## 👋 Hi, I'm Ahmad
 - 👀 I'm interested in coding 💻
 - My hobbies are 💻Coding and 🎮Playing game
 - 📫 How to reach me? totsukamail3278@gmail.com
