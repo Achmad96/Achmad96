@@ -4,10 +4,10 @@
 
 <!-- About personal -->
 
-- 👀 I'm interested to collaboration in Software engineer.
-- 📑 I'm 16 y/o
-- 📘 My hobbies are coding for an application and listening to musics.
-- ❓ I also like to making a film 🎬 and editing video too.
+- 👀 I'm interested to collaboration in software engineer.
+- 📓 I'm in high school
+- 📘 My hobbies are coding for an application, read meme and listening to musics
+- ❓ I also like to making a film 🎬 and editing video too
 - 📩 You can reach me at totsukamail3278@gmail.com
 
 ## 📌 Connect with me
