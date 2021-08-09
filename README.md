@@ -23,10 +23,15 @@
 <img align="left" alt="Ahmad3296's Github Stats" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="26px" />
 
 <br>
-<h3 align="left">Repository</h3>
+
+<h3 align="left">Repositories</h3>
   <a href="https://github.com/Ahmad3296/Aplikasi-Todolist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmad3296&repo=Aplikasi-Todolist&theme=dracula" />
-</a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmad3296&repo=Aplikasi-Todolist&theme=dracula" />
+  </a>
+  <a href="https://github.com/Ahmad3296/Kano-bot">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmad3296&repo=Kano-bot&theme=dracula" />
+  </a>
+  
 <br>
 
 <h3 align="left"> Thanks for reading </h3>
