@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Ahmad
 - 👀 I'm interested to collaboration in Software engineer.
 - 📑 I'm 16 y/o
-- 📘 My hobby is coding for an application.
+- 📘 My hobby is coding for an application and listening to music.
 - ❓ I also like to making a film 🎬 and editing video too.
 - 📩 You can reach me at totsukamail3278@gmail.com
 
@@ -29,7 +29,7 @@
 
 <br>
 
-<h3 align="left">Currently top repository</h3>
+<h3 align="left">📋 Currently top repository</h3>
   <a href="https://github.com/Ahmad3296/Aplikasi-Todolist">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmad3296&repo=Aplikasi-Todolist&theme=dracula" />
   </a>
