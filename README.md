@@ -6,7 +6,7 @@
 - 📩 You can reach me at totsukamail3278@gmail.com
 
 ### Languages and Tools
-<code><img align="left" alt="Ahmad3296's Github Stats" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="26px"></code>
+<img align="left" alt="Ahmad3296's Github Stats" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="26px">
 <img align="left" alt="Ahmad3296's Github Stats" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="26px" />
 <img align="left" alt="Ahmad3296's Github Stats" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="26px" />
 
