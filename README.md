@@ -29,7 +29,7 @@
 
 <br>
 
-<h2 align="left">📋 Currently top repository</h2>
+<h2 align="left">🏆 Currently top repository</h2>
   <a href="https://github.com/Ahmad3296/Aplikasi-Todolist">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmad3296&repo=Aplikasi-Todolist&theme=dracula" />
   </a>
