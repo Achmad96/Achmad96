@@ -5,12 +5,6 @@
 - 🌱 I’m currently learning:
 ### Languages and Tools
 
-<img align="left" alt="Ahmad3296's Github Stats" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="30" />
-<img align="left" alt="Ahmad3296's Github Stats" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="30" />
-<img align="left" alt="Ahmad3296's Github Stats" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="30" />
-
-<!---<img align = "left" alt = "Ahmad3296's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=Ahmad3296&show_icons=true&theme=radical" />
-<img align = "left" alt = "Ahmad3296's Github Stats" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad3296&layout=compact" />
-Ahmad3296/Ahmad3296 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[<img align="left" alt="Ahmad3296's Github Stats" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="30" />]
+[<img align="left" alt="Ahmad3296's Github Stats" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="30" />]
+[<img align="left" alt="Ahmad3296's Github Stats" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="30" />]
