@@ -38,7 +38,7 @@
 
 <br>
 
-## 🏆 Currently top repository
+## 🏆 Current top repository
 
 <!-- Current Top repo -->
 
