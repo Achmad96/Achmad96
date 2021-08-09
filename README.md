@@ -12,5 +12,5 @@
 
 <br>
 
-### Thanks
+### Thanks for reading
 <img align="center" alt="Ahmad's Github Profile" src="https://i.imgur.com/KXx0cCx.gif" width="373.5px" height="208.5px" />
