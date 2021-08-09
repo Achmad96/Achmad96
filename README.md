@@ -14,9 +14,9 @@
 <a href="https://discord.gg/kyanoe#4392" target="blank">
    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kyanoe#4392" width="26px" />
 </a>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="26px"/>
+   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="26px"/>
 <a href="https://www.w3.org/html/" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="26px"/> </a>
+   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="26px"/> </a>
 </p>
 
 <br>
