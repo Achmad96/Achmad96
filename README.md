@@ -33,4 +33,4 @@
   </a>
 <br>
 <h3 align="left"> Thanks for reading </h3>
-<img src="https://i.imgur.com/KXx0cCx.gif" width="200.5px" height="200.10px"/>
+<img src="https://i.imgur.com/KXx0cCx.gif" width="200px"/>
