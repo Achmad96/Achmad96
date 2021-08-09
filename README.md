@@ -28,6 +28,3 @@
   <a href="https://github.com/Ahmad3296/Aplikasi-Todolist">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmad3296&repo=Aplikasi-Todolist&theme=dracula" />
   </a>
-<br />
-<h1 align="left"> Thanks for reading </h1>
-<img src="https://i.imgur.com/KXx0cCx.gif" width="373.5px" height="208.5px"/>
