@@ -5,7 +5,7 @@
 - ❓ I also like to making a film 🎬 and editing video too.
 - 📩 You can reach me at totsukamail3278@gmail.com
 
-<h3 align="left">📌 Connect with me</h3>
+<h2 align="left">📌 Connect with me</h2>
 <p align="left">
 <a href="https://www.instagram.com/kyanoee/" target="blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kyanoee" width="26px" /></a>
@@ -18,7 +18,7 @@
 
 <br>
 
-<h3 align="left">📂 Languages and Tools</h3>
+<h2 align="left">📂 Languages and Tools</h2>
 <img align="left" alt="Ahmad3296's Github Stats" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="26px" />
 <img align="left" alt="Ahmad3296's Github Stats" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="26px" />
 <img align="left" alt="Ahmad3296's Github Stats" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="26px" />
@@ -29,7 +29,7 @@
 
 <br>
 
-<h3 align="left">📋 Currently top repository</h3>
+<h2 align="left">📋 Currently top repository</h2>
   <a href="https://github.com/Ahmad3296/Aplikasi-Todolist">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmad3296&repo=Aplikasi-Todolist&theme=dracula" />
   </a>
