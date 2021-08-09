@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Ahmad
 - 👀 I'm interested to collaboration in Software engineer.
 - 📑 I'm 16 y/o
-- 📘 My hobby is coding for an application and listening to music.
+- 📘 My hobbies are coding for an application and listening to musics.
 - ❓ I also like to making a film 🎬 and editing video too.
 - 📩 You can reach me at totsukamail3278@gmail.com
 
