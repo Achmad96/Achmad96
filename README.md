@@ -25,7 +25,7 @@
 <br>
 <h3 align="left">Repository</h3>
   <a href="https://github.com/Ahmad3296/Aplikasi-Todolist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmad3296&repo=Aplikasi-Todolist&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmad3296&repo=Aplikasi-Todolist&theme=dracula" />
 </a>
 <br>
 
