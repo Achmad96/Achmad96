@@ -10,5 +10,5 @@
 <img align="left" alt="Ahmad3296's Github Stats" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="26px" />
 <img align="left" alt="Ahmad3296's Github Stats" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="26px" />
 
-### Thanks
+## Thanks
 <img align="center" alt="Ahmad's Github Profile" src="https://i.imgur.com/KXx0cCx.gif" width="373.5px" height="208.5px" />
