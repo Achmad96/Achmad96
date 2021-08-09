@@ -31,6 +31,8 @@
   <a href="https://github.com/Ahmad3296/Kano-bot">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmad3296&repo=Kano-bot&theme=dracula" />
   </a>
+  
 <br>
-<h4 align="left"> Thanks for reading </h4>
-<img src="https://i.imgur.com/KXx0cCx.gif" width="50px" />
+
+<h3 align="left"> Thanks for reading </h3>
+<img src="https://i.imgur.com/KXx0cCx.gif" width="200px" />
