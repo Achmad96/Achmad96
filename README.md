@@ -13,4 +13,4 @@
 <br>
 
 ### Thanks for reading
-<img align="center" src="https://i.imgur.com/KXx0cCx.gif" width="373.5px" height="208.5px" />
+<img src="https://i.imgur.com/KXx0cCx.gif" width="373.5px" height="208.5px" />
