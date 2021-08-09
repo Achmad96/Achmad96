@@ -32,7 +32,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmad3296&repo=Kano-bot&theme=dracula" />
   </a>
   
-<br>
+<br />
 
 <h3 align="left"> Thanks for reading </h3>
 <img src="https://i.imgur.com/KXx0cCx.gif" width="200px" />
