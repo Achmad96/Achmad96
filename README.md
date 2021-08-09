@@ -11,4 +11,4 @@
 <img align="left" alt="Ahmad3296's Github Stats" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="26px" />
 
 ### Thanks
-<img align="center" src="https://i.imgur.com/KXx0cCx.gif" width="373.5px" height="208.5px" />
+<img align="center" alt="Ahmad's Github Stats" src="https://i.imgur.com/KXx0cCx.gif" width="373.5px" height="208.5px" />
