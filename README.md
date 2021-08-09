@@ -1,8 +1,9 @@
 ### 👋 Hi, I'm Ahmad
-- 👀 I'm interested to collaboration in Software engineer
-- My hobbies are 💻Coding and 🎮Playing game
-- 📫 How to reach me? totsukamail3278@gmail.com
-- 🌱 I’m currently learning:
+- 👀 I'm interested to collaboration in Software engineer.
+- 📑 I'm 16 y/o
+- 📘 My hobby is coding for an application.
+- ❓ I also like to making a film 🎬 and editing video too.
+- 📩 You can reach me at totsukamail3278@gmail.com
 
 ### Languages and Tools
 <img align="left" alt="Ahmad3296's Github Stats" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="26px" />
