@@ -36,7 +36,7 @@
 
 <br>
 
-<img alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="28px"/>
+<img alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="28px" />
 <img alt="vscode" src="https://user-images.githubusercontent.com/73148419/128693386-c557913a-381c-4d75-972c-3391f02329bc.png" width="28px" />
 <img alt="idea" src="https://user-images.githubusercontent.com/73148419/128693991-5f2c25c2-c1b6-4ebb-a851-edb857818824.png" width="26px" />
 
