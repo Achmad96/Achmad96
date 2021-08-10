@@ -24,6 +24,12 @@
 <a href="https://twitter.com/@Ahmad94132298" target="blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="26px">
 </a>
+<a href="https://www.facebook.com/kano.uwu.5/">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="26px">
+</a>
+<a href="https://github.com/Ahmad3296">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="26px">
+</a>
 
 <br>
 
