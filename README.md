@@ -21,6 +21,9 @@
 <a href="https://discord.gg/kyanoe#4392" target="blank">
    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kyanoe#4392" width="26px" />
 </a>
+<a href="https://twitter.com/Ahmad94132298" target="blank">
+  <img align = "left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmad94132298" width="26px" />
+</a>
 
 <br>
 
