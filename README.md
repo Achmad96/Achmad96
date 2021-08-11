@@ -10,6 +10,8 @@
 - ❓ I also like to making a film 🎬 and editing video too
 - 📩 You can reach me at totsukamail3278@gmail.com
 
+![Visitor Count](https://profile-counter.glitch.me/Ahmad3296/count.svg)
+
 ## 📌 Connect with me
 
 <!-- Social media -->
