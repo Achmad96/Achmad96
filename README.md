@@ -48,6 +48,7 @@
 <img align="left" alt="nodejs" src="https://user-images.githubusercontent.com/73148419/128793065-8f9be4b5-a264-4cad-8c21-1ef7ef08ec2d.png" width="28px" /> 
 <img align="left" alt="vscode" src="https://user-images.githubusercontent.com/73148419/128693386-c557913a-381c-4d75-972c-3391f02329bc.png" width="28px" />
 <img align="left" alt="idea" src="https://user-images.githubusercontent.com/73148419/128693991-5f2c25c2-c1b6-4ebb-a851-edb857818824.png" width="26px" />
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20px" /> </a>
 
 <br>
 
