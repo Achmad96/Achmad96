@@ -4,7 +4,8 @@
 
 <!-- About personal -->
 
-- 👀 I'm interested to collaboration in software engineer.
+<p width="50" align="center"> ❝ I'm want to be a back end developer in one of biggest e-commerce. ❞ </p>
+
 - 📓 I'm in high school
 - 📘 My hobbies are coding for an application, read meme and listening to musics
 - ❓ I also like to making a film 🎬 and editing video too
