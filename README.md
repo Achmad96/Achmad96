@@ -10,7 +10,7 @@
 - ❓ I also like to making a film 🎬 and editing video too
 - 📩 You can reach me at totsukamail3278@gmail.com
 
-## 🏆 Most languages I used
+## 🏆 Most languages
 
 <!-- Most languages -->
 
