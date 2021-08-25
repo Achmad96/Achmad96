@@ -4,7 +4,7 @@
 
 <!-- About personal -->
 
-<p width="50px" align="center"> ❝ I'm want to be a back end Developer in one of biggest e-commerce. ❞ </p>
+<p size="50px" align="center"> ❝ I'm want to be a back end Developer in one of biggest e-commerce. ❞ </p>
 
 - 📓 I'm in high school
 - 📘 My hobbies are coding for an application, read meme and listening to musics
