@@ -9,13 +9,11 @@
 - 📘 My hobbies are coding for an application, read meme and listening to musics
 - ❓ I also like to making a film 🎬 and editing video too
 - 📩 You can reach me at totsukamail3278@gmail.com
-<br>
 
-## 🏆 Current top repository
+## 🏆 Most languages I used
 
-<!-- Current Top repo -->
+<!-- Most languages -->
 
-  <a href="https://github.com/Ahmad3296/TODO-APP">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmad3296&repo=TODO-APP&theme=dracula" />
-  </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad3296&layout=compact)](https://github.com/Ahmad3296/github-readme-stats)
+
 <!-- END -->
