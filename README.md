@@ -10,9 +10,6 @@
 - ❓ I also like to making a film 🎬 and editing video too
 - 📩 You can reach me at totsukamail3278@gmail.com
 
-<!-- Visitor count -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhmad3296%2Fhit-counter&count_bg=%233D71C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## 📌 Connect with me
 
 <!-- Social media -->
