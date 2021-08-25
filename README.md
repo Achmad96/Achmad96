@@ -9,7 +9,6 @@
 - 📘 My hobbies are coding for an application, read meme and listening to musics
 - ❓ I also like to making a film 🎬 and editing video too
 - 📩 You can reach me at totsukamail3278@gmail.com
-
 <br>
 
 ## 🏆 Current top repository
