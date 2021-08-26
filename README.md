@@ -6,7 +6,7 @@
 
 <h3 align="center"> ❝ I want to be a back end Developer in one of biggest e-commerce. ❞ </h3>
 
-- 📓 I'm in 2nd grade of high school
+- 📓 I'm in the 2nd grade of high school
 - 📘 My hobbies are coding for an application, read meme and listening to musics
 - ❓ I also like to making a film 🎬 and editing video too
 - 📩 You can reach me at totsukamail3278@gmail.com
