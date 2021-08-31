@@ -11,6 +11,8 @@
 - ❓ I also like to making a film 🎬 and editing video too
 - 📩 You can reach me at totsukamail3278@gmail.com
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5258vhjmjbihshviqs4l25d6j&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+
 ## 🏆 Most used languages
 
 <!-- Most languages -->
