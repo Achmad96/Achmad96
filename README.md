@@ -5,8 +5,6 @@
 <!-- About personal -->
 
 <h3 align="center"> ❝ I want to be a back end Developer in one of biggest e-commerce. ❞ </h3>
-
-- 📓 I'm in the 2nd grade of high school
 - 📘 My hobbies are codes, memes and musics
 - ❓ I also like to making a film 🎬 and editing video too
 - 📩 You can reach me at totsukamail3278@gmail.com
