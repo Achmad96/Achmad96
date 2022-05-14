@@ -3,12 +3,11 @@
 # Hi there 👋 I'm Ahmad
 
 <!-- About personal -->
+## About me
+- ❤️️ I like to playing piano and code
+- 🤗 My dream is to become the CEO of a company
 
-- 📘 My hobbies are codes, memes and musics
-- ❓ I also like to making a film 🎬 and editing video too
-- 📩 You can reach me at totsukamail3278@gmail.com
-
-## 🏆 Most used languages
+## 🏆 My statistics
 
 <!-- Most languages -->
 
