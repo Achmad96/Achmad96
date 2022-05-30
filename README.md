@@ -3,7 +3,7 @@
 # Hai semuanya 👋
 
 <!-- About personal -->
-Perkenalkan nama saya Achmad raihan, umur saya sekarang adalah 16 tahun.
+> Perkenalkan nama saya Achmad raihan, umur saya sekarang adalah 16 tahun.
 
 ### Tentang saya
 - Saya suka bermain piano, game, dan membuat projek aplikasi
