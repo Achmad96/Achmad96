@@ -1,12 +1,14 @@
 <!-- START -->
 
-# Hi there 👋 I'm Ahmad
+# Hai semuanya 👋
 
 <!-- About personal -->
-## About me
-- I like to playing a piano and make codes
-- My dream is to become the CEO of a company
-- Thanks for visiting my github page 🤗
+Perkenalkan nama saya Achmad raihan, umur saya sekarang adalah 16 tahun.
+
+### Tentang saya
+- Saya suka bermain piano, game, dan membuat projek aplikasi
+- Impian saya adalah menjadi CEO atau Founder di sebuah perusahaan
+- Terima kasih sudah berkunjung ke halaman Github saya 🤗
 
 <!-- ## 🏆 My statistics -->
 
