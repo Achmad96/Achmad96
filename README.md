@@ -13,11 +13,8 @@
 <details><summary>Don't click me</summary>
 <p>
 
-#### Hello
-
-    ```java
-      System.out.println("Hello World");
-    ```
+    #### Hello world
+    System.out.println("Hello World");
 
 </p>
 </details>
