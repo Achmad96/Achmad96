@@ -12,11 +12,19 @@
 
 <details><summary>Don't click me</summary>
 <p> 
+    
 ```java
-    System.out.println("I <3 you."); // kyaa~~
+    System.out.println("I <3 you.");
 ```
+    
 </p>
 </details>
+        
+```mermaid
+graph TD;
+    A-->R;
+    R-->A;
+```
 
 <!-- ## 🏆 My statistics -->
 
