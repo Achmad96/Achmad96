@@ -11,11 +11,10 @@
 - Terima kasih sudah berkunjung ke halaman Github saya 🤗
 
 <details><summary>Don't click me</summary>
-<p>
-
-    #### Hello world
-    System.out.println("Hello World");
-
+<p> 
+```java
+    System.out.println("I <3 you."); // kyaa~~
+```
 </p>
 </details>
 
