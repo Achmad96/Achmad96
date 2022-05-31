@@ -10,6 +10,18 @@
 - Impian saya adalah menjadi CEO atau Founder di sebuah perusahaan
 - Terima kasih sudah berkunjung ke halaman Github saya 🤗
 
+<details><summary>Don't click me</summary>
+<p>
+
+#### Hello
+
+    ```java
+      System.out.println("Hello World");
+    ```
+
+</p>
+</details>
+
 <!-- ## 🏆 My statistics -->
 
 <!-- Most languages -->
