@@ -18,7 +18,7 @@
     public class Main {
     
         public static void main(String[] args){
-            System.out.println("I can't have you.");
+            System.out.println("I <3 You");
         }
     
     }
