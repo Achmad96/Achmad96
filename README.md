@@ -2,9 +2,12 @@
 ```java
     public class Main {
         public static void main(String[] args){
-            System.out.println("Hello world");
+            println("Hello world");
         }
     
+        public static void println(Object o) {
+            System.out.println(o);
+        }
     }
 ```        
 <!-- END -->
