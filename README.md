@@ -2,7 +2,7 @@
 ```java
     public class Main {
         public static void main(String[] args){
-            println("Hello " + getName());
+            printf("Hello %s", getName());
         }
         
         public static void printf(String s, ...Object) {
