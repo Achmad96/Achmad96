@@ -5,8 +5,8 @@
             printf("Hello %s", getName());
         }
         
-        public static void printf(String s, ...Object) {
-            System.out.printf(s, Object);
+        public static void printf(String s, Object... o) {
+            System.out.printf(s, o);
         }
     
         public static String getName() {
