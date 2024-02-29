@@ -8,6 +8,5 @@
 - 📫 How to reach me **totsukamail3278@gmail.com**
 
 <h3>Statistics</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Achmad96&theme=dracula&show_icons=true"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achmad96&theme=dracula&layout=compact"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achmad96&theme=dracula&layout=compact"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achmad96&theme=dracula&hide_progress=true"/></p>
