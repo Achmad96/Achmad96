@@ -8,7 +8,7 @@
 - 📫 How to reach me **totsukamail3278@gmail.com**
 
 <h3>Statistics</h3>
-<p><img align="left" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=Achmad96&theme=dark"/>
+<p><img align="left" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=Achmad96&theme=halloween"/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achmad96&theme=dracula&layout=compact"/>
 
