@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achmad Raihan</h1>
-<h3 align="center">A passionate software developer from Indonesia</h3>
+<h3 align="center">A passionate software developer from Surabaya, Indonesia</h3>
 
 - 👨‍💻 All of my projects are available at [https://portofolio-achmad96.vercel.app/](https://portofolio-achmad96.vercel.app/)
 
